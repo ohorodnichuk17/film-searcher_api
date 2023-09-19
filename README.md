@@ -9,8 +9,13 @@ The Movie Search App is a web application that allows users to search for movies
 
 ## Technologies Used:
 HTML: The structure of the web pages.
+
 CSS (Bootstrap): Styling and layout of the user interface.
+
 JavaScript: Interactivity and making API requests.
+
 Open Movie Database (OMDb) API: Used to fetch movie and series data.
+
 jQuery: JavaScript library for DOM manipulation.
+
 Bootstrap: CSS framework for responsive design.
